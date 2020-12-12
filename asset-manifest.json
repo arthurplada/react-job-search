@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactjobsearch/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/reactjobsearch/static/js/main.cd580dd1.chunk.js",
+    "main.js.map": "/reactjobsearch/static/js/main.cd580dd1.chunk.js.map",
+    "runtime-main.js": "/reactjobsearch/static/js/runtime-main.bcca79ed.js",
+    "runtime-main.js.map": "/reactjobsearch/static/js/runtime-main.bcca79ed.js.map",
+    "static/js/2.57c08895.chunk.js": "/reactjobsearch/static/js/2.57c08895.chunk.js",
+    "static/js/2.57c08895.chunk.js.map": "/reactjobsearch/static/js/2.57c08895.chunk.js.map",
+    "static/js/3.69af0ca4.chunk.js": "/reactjobsearch/static/js/3.69af0ca4.chunk.js",
+    "static/js/3.69af0ca4.chunk.js.map": "/reactjobsearch/static/js/3.69af0ca4.chunk.js.map",
+    "index.html": "/reactjobsearch/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/reactjobsearch/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.57c08895.chunk.js.LICENSE.txt": "/reactjobsearch/static/js/2.57c08895.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reactjobsearch/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcca79ed.js",
+    "static/js/2.57c08895.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.cd580dd1.chunk.js"
+  ]
+}
